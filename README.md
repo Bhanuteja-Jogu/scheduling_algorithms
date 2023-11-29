@@ -7,7 +7,6 @@ Enter release time, execution time, deadline, period for Task 1: 4 5 15 15
 Enter release time, execution time, deadline, period for Task 2: 0 5 20 20
 
 
-
 edf_can.py input example:
 
 Enter number of tasks for processor 1: 4
